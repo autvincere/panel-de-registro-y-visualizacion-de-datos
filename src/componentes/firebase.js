@@ -1,9 +1,11 @@
 import app from 'firebase/app'
 import 'firebase/firestore'
 import 'firebase/auth'
+import env from "react-dotenv";
+
 
 const firebaseConfig = {
-     apiKey: "AIzaSyCRas4MJcR965EVvG3prwXue-TFevOUkKE",
+     apiKey: env.API_KEY,
      authDomain: "admin-registros-formulario.firebaseapp.com",
      databaseURL: "https://admin-registros-formulario.firebaseio.com",
      projectId: "admin-registros-formulario",
