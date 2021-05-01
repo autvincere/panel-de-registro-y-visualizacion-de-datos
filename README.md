@@ -26,7 +26,8 @@ Para correr este proyecto necesitaras una serie de paquetes npm, ademas de los u
 react-google-recaptcha: "^2.1.0",
 react-html-table-to-excel: "^2.0.0",
 rut.js: "^1.0.2",
-uuidv4: "^6.1.1"
+uuidv4: "^6.1.1",
+firebase: "^7.15.5"
 ```
 
 ## Servidor Local 💻
