@@ -30,7 +30,9 @@
     "extends": "react-app"
   },
   "react-dotenv": {
-    "whitelist": ["API_KEY"]
+    "whitelist": [
+      "API_KEY"
+    ]
   },
   "browserslist": {
     "production": [
