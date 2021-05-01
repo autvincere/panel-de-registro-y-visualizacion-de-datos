@@ -1,10 +1,46 @@
+a.active {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
 .App {
   text-align: center;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.margin-top-50 {
+  margin-top: 50px;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.error-content {
+  font-size: 1.3em;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.content-button-export {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.content-center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.title-form {
+  display: inline-block;
+  width: 100%;
+  margin-top: 37px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -32,6 +68,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
