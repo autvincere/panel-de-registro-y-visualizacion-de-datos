@@ -5,7 +5,7 @@
 Aplicación de registro y consulta en base de datos firebase, con exportación a planilla excel.
 
 ## Versión en producción 😎
-[Click aquí](https://pokedex-alpha-ten.vercel.app/) - Deploy en Vercel.
+[Click aquí](https://admin-registros-formulario.web.app/) - Deploy en Firebase Hosting.
 
 
 ## Comenzando 🚀
@@ -13,7 +13,7 @@ Aplicación de registro y consulta en base de datos firebase, con exportación a
 Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para propósitos de desarrollo y pruebas.
 
 ```
-https://github.com/autvincere/grafico-valor-dolar-app.git
+https://github.com/autvincere/panel-de-registro-y-visualizacion-de-datos.git
 ```
 
 
